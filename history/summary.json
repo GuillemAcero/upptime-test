@@ -4,7 +4,7 @@
     "url": "https://www.doofinder.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.doofinder.com.ico",
     "slug": "doofinder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1692,
     "timeMonth": 1467,
     "timeYear": 1467,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-23": 0
+    }
   },
   {
     "name": "Ngrok Test",
@@ -34,7 +36,7 @@
     "timeMonth": 129,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2024-08-23": 75,
+      "2024-08-23": 1292,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
@@ -72,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-23": 75,
+      "2024-08-23": 1292,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
