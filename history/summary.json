@@ -4,19 +4,19 @@
     "url": "https://www.doofinder.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.doofinder.com.ico",
     "slug": "doofinder",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1525,
-    "timeDay": 1644,
-    "timeWeek": 1701,
-    "timeMonth": 1525,
-    "timeYear": 1525,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1517,
+    "timeDay": 1446,
+    "timeWeek": 1650,
+    "timeMonth": 1517,
+    "timeYear": 1517,
     "dailyMinutesDown": {
-      "2024-08-30": 0
+      "2024-08-30": 11
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-08-30": 808,
+      "2024-08-30": 820,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -81,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-30": 808,
+      "2024-08-30": 820,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
